@@ -4,7 +4,7 @@ Flutter application using riverpod and querying fake data from [Jsonplaceholder]
 
 ## Screenshots
 
-<img height=700 width=300 src="https://github.com/sanxy/Fake-Jsonplaceholder/blob/master/screenshot/1.png">
+<img height=600 width=300 src="https://github.com/sanxy/Fake-Jsonplaceholder/blob/master/screenshot/1.png">
 
 
 ## Flutter Packages used 
