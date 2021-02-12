@@ -1,6 +1,6 @@
 # fake_flutter_api
 
-Flutter application using riverpod and querying fake data from [Jsonplaceholder](https://jsonplaceholder.typicode.com/)
+Flutter application using riverpod and querying fake data from [Jsonplaceholder](https://jsonplaceholder.typicode.com/) using the photos fake data api
 
 ## Screenshots
 
